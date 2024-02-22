@@ -4,7 +4,7 @@ cat
 dog
 emu
 fox
-gnu
+gar
 hen
 iguana
 jaguar
@@ -15,7 +15,7 @@ narwhal
 owl
 pig
 quokka
-rat
+rhino
 snake
 tern
 urchin
